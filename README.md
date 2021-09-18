@@ -24,9 +24,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" style="width: 30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="ES6" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJs" style="width: 30px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="MochaJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJs" style="width: 30px">
