@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Souhail Sbayou</h1>
+<h1 align="center">Hi 👋, I am Souhail</h1>
 
 <!--
 **proup24/proup24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
