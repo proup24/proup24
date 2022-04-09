@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" style="width: 30px">
+  <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg" alt="Cypress" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" style="width: 30px">
