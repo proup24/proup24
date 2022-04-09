@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJs" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" style="width: 30px">
 </div>
