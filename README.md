@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" style="width: 30px">
   <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg" alt="Cypress" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" style="width: 30px">
-  <div style="display: inline-block; background-color: #C4C4C4"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJs" style="width: 30px"></div>
+  <div style="width: 30px; display: inline; background-color: #C4C4C4"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJs" style="width: 100%"></div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" style="width: 30px">
