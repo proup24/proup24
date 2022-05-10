@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 <p align="center">A fullstack developer based in Agadir, a beautiful sunny town in Morocco ☀</p>
-<p align="center">Reach out to me on <a href="mailto:proup24@gmail.com">proup24@gmail.com</a> 📫</p>
+<p align="center">Reach out to me on <a href="mailto:souhail@proup24.com">proup24@gmail.com</a> 📫</p>
 <br>
 <h2 align="center">Toolset</h2>
 <div align="center">
